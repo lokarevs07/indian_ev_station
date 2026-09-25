@@ -1,0 +1,39 @@
+Feature,Importance
+cat__Connector Type_CCS (Type 2),0.404454796259729
+num__Latitude,0.17657116512574597
+num__Longitude,0.17028707498674675
+cat__Connector Type_CHAdeMO,0.07306324194639884
+cat__Connector Type_CEE 3 Pin,0.03686810836640994
+cat__State_Andhra Pradesh,0.03641322684969145
+cat__Operator_EESL (IN),0.03614238063432817
+cat__Operator_Zeon Charging,0.01344269960439403
+cat__Operator_GO EC (IN),0.010613828101296068
+cat__Operator_ChargeMod (IN),0.009052506142675006
+cat__Operator_Tata Power,0.007421205021714311
+cat__Operator_Statiq (IN),0.006434585845097734
+cat__Operator_Chargezone (India),0.0027483012817790925
+cat__State_uttar pradesh,0.0019397891283934113
+cat__State_Kerala,0.0017064408080019863
+cat__State_nan,0.001489964711295006
+cat__Connector Type_GB-T DC - GB/T 20234.3,0.0013289972000771009
+cat__Connector Type_Type 2 (Tethered Connector),0.0012620760965473764
+cat__State_Karnataka,0.0012538037173756194
+cat__Usage Type_Public - Membership Required,0.0010894030937649713
+cat__Connector Type_IEC 60309 3-pin,0.0009146512274435997
+cat__State_Tamil Nadu,0.0008571367401794285
+cat__Operator_(Unknown Operator),0.000711009752439594
+cat__State_Telangana,0.0006972789890724184
+cat__Usage Type_Public,0.0006405280552676854
+cat__State_Keral,0.0005974238632641242
+cat__Operator_Adani Gas-EV (TR),0.00040764651556669996
+cat__State_Madhya Pradesh,0.0003678137855760658
+cat__Operator_JIO BP Pulse (India),0.00034928964328302735
+cat__State_West Bengal,0.0002712462476421346
+"cat__Usage Type_Private - For Staff, Visitors or Customers",0.0002360277143290804
+cat__State_Delhi,0.0001739210631582822
+cat__State_Keraka,0.00010032647876378522
+cat__Connector Type_Unknown,4.4055128957085425e-05
+cat__Usage Type_Public - Pay At Location,2.9920801906720187e-05
+cat__State_Puducherry,1.8129071688544334e-05
+cat__State_Lerala,0.0
+cat__State_Maharashtra,0.0
